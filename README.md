@@ -75,7 +75,7 @@ The project followed a structured data analysis workflow:
 
 ## Dashboard Preview
 
-![TWDP Sales Performance Dashboard](images/dashboard-preview.png)
+![TWDP Sales Performance Dashboard](Sales_performance_dashboard.png)
 
 The dashboard provides a consolidated overview of sales performance through:
 
